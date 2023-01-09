@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://yichistat.github.io/sitemap.xml
+Sitemap: https://yichistat.github.io/web/sitemap.xml
